@@ -9,36 +9,44 @@ Email [zakerytclarke@gmail.com](mailto:zakerytclarke@gmail.com) to gain permissi
 Please place your programs below and list relevant information.  
 
 ### Ackermann-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/ackermann.bas)
-Calculates the Ackermann function
+Calculates the Ackermann function  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/ackermann.bas)
+
 
 ### Color Picker-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/colorpicker.bas)
-RGB Color Picker
+RGB Color Picker  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/colorpicker.bas)
 
 ### Factorial-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/fizzbuzz.bas)
+Calculates factorials  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/fizzbuzz.bas)
 
 ### Flaggy Flag-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/flaggyflag.bas)
+Generates a waving flag from any image  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/flaggyflag.bas)
 
 ### Langton's Ants-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/langtonsant.bas)
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/langtonsant.bas)
 
 ### Mintoris Doc-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/mintorisdoc.bas)
+A comment generating format for Mintoris  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/mintorisdoc.bas)
 
 ### Monopoly Probability Generator-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/monopoly.bas)
+Calculates the probabilities of the popular board game Monopoly  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/monopoly.bas)
 
 ### Pascal's Triangle-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/pascaltriangle.bas)
+Generates a pretty Pascal's triangle  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/pascaltriangle.bas)
 
 ### Physics Sensor-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/physicssensor.bas)
+Records acceleration and exports to CSV  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/physicssensor.bas)
 
 ### Pi Generator-Zakery Clarke
-[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/pi.bas)
+Generates Pi using an infinite series  
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/pi.bas)
 
 
 ## Current Admin
