@@ -19,7 +19,7 @@ RGB Color Picker
 
 ### Factorial-Zakery Clarke
 Calculates factorials  
-[Download](https://zakerytclarke.github.io/MintorisBasicPublic/fizzbuzz.bas)
+[Download](https://zakerytclarke.github.io/MintorisBasicPublic/factorial.bas)
 
 ### Flaggy Flag-Zakery Clarke
 Generates a waving flag from any image  
