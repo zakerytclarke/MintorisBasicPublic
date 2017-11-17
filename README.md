@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Mintoris Basic Repository
 
-You can use the [editor on GitHub](https://github.com/zakerytclarke/MintorisBasicPublic/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a public repository for  [Mintoris Basic](http://www.mintoris.com)
+## Contribute
+Email [zakerytclarke@gmail.com](mailto:zakerytclarke@gmail.com) to gain permission to upload to this repository or simply fork this repository and create a pull request.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## User Programs:
+Please place your programs below and list relevant information.
+###Program-Zakery Clarke
+[Program Name](https://zakerytclarke.github.io/MintorisBasicPublic/program.bas)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zakerytclarke/MintorisBasicPublic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Current Admin
+Email: [zakerytclarke@gmail.com](mailto:zakerytclarke@gmail.com)
